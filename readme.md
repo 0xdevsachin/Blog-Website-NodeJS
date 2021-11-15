@@ -18,7 +18,7 @@ Tech Stack used for creation of blog Website
 
 # Home Page
 
-<img src="static/img/Homepage.png" alt="Homeimage">
+<img src="static/img/Homepage.PNG" alt="Homeimage">
 
 <br>
 <br>
@@ -32,28 +32,28 @@ Tech Stack used for creation of blog Website
 
 # Blog Page
 
-<img src="static/img/Blogspage.png" alt="blogpimage">
+<img src="static/img/Blogspage.PNG" alt="blogpimage">
 
 <br>
 <br>
 
 # Write Blog Page
 
-<img src="static/img/Writeblog.png" alt="writeblogimage">
+<img src="static/img/Writeblog.PNG" alt="writeblogimage">
 
 <br>
 <br>
 
 # Read Blog Page
 
-<img src="static/img/Readblog.png" alt="readblogimage">
+<img src="static/img/Readblog.PNG" alt="readblogimage">
 
 <br>
 <br>
 
 # Footer
 
-<img src="static/img/Footerpage.png" alt="readblogimage">
+<img src="static/img/Footerpage.PNG" alt="readblogimage">
 
 
 <br>
