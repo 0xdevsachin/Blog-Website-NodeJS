@@ -73,7 +73,7 @@ npm install
 ```
 After  Installing dependencies run the Web Application
 ```shell
-$ npm start
+npm start
 ```
 If you follow every step correctly website will be live at localhost port 3300
 
